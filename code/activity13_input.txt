@@ -1,0 +1,4 @@
+RDU	Raleigh/Durham
+SFO	San Francisco
+ORD	Chicago
+PGV	Pitt/Greenville

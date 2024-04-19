@@ -1,0 +1,8 @@
+Paris,France
+New York,US
+San Francisco,US
+Charlotte,US
+Boston,US
+Toroto,Canada
+Tokyo,Japan
+Beijing,China
